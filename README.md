@@ -12,6 +12,8 @@ Coming Down You Can See My index.html📄 File Where I've Stored All The Element
 
 I've Used HTML For Writing My Content , CSS For Styling And Javascript For Functioning.
 
+You Can Use This Website In Any Devices Such As Mobile Phone📱,Laptop💻,Desktop🖥️,Tablet🔳.
+
 I've Given The Link Below To See My Whole Website 👇.
 
 https://monica112002.github.io/Login-Registration-Form/
